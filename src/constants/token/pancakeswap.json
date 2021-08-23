@@ -27,6 +27,14 @@
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe02df9e3e622debdd69fb838bb799e3f168902c5.png"
     },
     {
+      "name": "PRN Token",
+      "symbol": "PRN",
+      "address": "0x1aae75488c632ec4c8df96e883a53e3b63cf5b3c",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://paradex.finance/assets/img/logoPARADEX.png"
+    },
+    {
       "name": "BUSD Token",
       "symbol": "BUSD",
       "address": "0xe0dfffc2e01a7f051069649ad4eb3f518430b6a4",
